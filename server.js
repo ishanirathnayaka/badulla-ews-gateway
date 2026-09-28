@@ -23,7 +23,7 @@ app.use(express.json());
 
 const PILLAR1 = process.env.PILLAR1_URL || "http://localhost:8000";
 const PILLAR2 = process.env.PILLAR2_URL || "http://localhost:8081";
-const PILLAR3_DIR = "D:/Research Finall EWS/pillar3-donation";
+const PILLAR3_DIR = process.env.PILLAR3_DIR || "./artefacts";
 
 // ============================================================
 // AUTHENTICATION

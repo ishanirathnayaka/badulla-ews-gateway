@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-09-22T07:04:30.685321+00:00",
+  "divisions": [
+    "Badulla",
+    "Bandarawela",
+    "Ella",
+    "Haldummulla",
+    "Hali-Ela",
+    "Haputale",
+    "Kandaketiya",
+    "Lunugala",
+    "Mahiyanganaya",
+    "Meegahakivula",
+    "Passara",
+    "Rideemaliyadda",
+    "Soranathota",
+    "Uva Paranagama",
+    "Welimada"
+  ],
+  "severities": [
+    0.0114,
+    0.031,
+    0.0081,
+    0.0114,
+    0.0294,
+    0.013,
+    0.0016,
+    0.031,
+    0.0,
+    0.0049,
+    0.0424,
+    0.0017,
+    0.0147,
+    0.0212,
+    0.0541
+  ],
+  "weightsBps": [
+    391,
+    1065,
+    278,
+    391,
+    1010,
+    446,
+    200,
+    1065,
+    200,
+    200,
+    1457,
+    200,
+    505,
+    728,
+    1864
+  ],
+  "minSatisfactionRatio": 0.9482,
+  "giniEquity": 0.7676,
+  "giniEquityUniformBaseline": 0.4185,
+  "floor": 0.02,
+  "equityTargetMet": false,
+  "floorBoundDivisions": [
+    "Kandaketiya",
+    "Mahiyanganaya",
+    "Meegahakivula",
+    "Rideemaliyadda"
+  ],
+  "zeroNeedDivisions": [
+    "Mahiyanganaya"
+  ]
+}
